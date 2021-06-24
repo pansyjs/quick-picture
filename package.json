@@ -1,0 +1,18 @@
+{
+  "name": "@pansy/quick-picture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pansyjs/quick-picture.git",
+  "author": "wangxingkang <wang_xingkang@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@pansy/react-hooks": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.11",
+    "@types/react-dom": "^17.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.3.4"
+  }
+}
