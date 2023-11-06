@@ -6,7 +6,7 @@
   "author": "wangxingkang <wang_xingkang@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "@pansy/react-hooks": "^0.0.2"
+    "@pansy/react-hooks": "^2.0.0"
   },
   "devDependencies": {
     "@types/react": "17.0.11",
